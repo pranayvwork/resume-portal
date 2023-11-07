@@ -1,6 +1,7 @@
 package com.codingendtoend.resumeportal.models;
 
-import jakarta.persistence.*;
+
+import javax.persistence.*;
 
 @Entity
 @Table(name="User")
